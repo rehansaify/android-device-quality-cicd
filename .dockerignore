@@ -1,0 +1,30 @@
+# Version control
+.git/
+.github/
+
+# Ignore configuration and docs
+.gitignore
+.dockerignore
+README.md
+
+# Virtual environments & local caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Tests and caches
+tests/
+.pytest_cache/
+.ruff_cache/
+reports/
+*.xml
+.coverage
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/

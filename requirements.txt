@@ -1,0 +1,2 @@
+# Zero third-party runtime dependencies.
+# The core device_quality package uses Python 3.12+ standard library only.
