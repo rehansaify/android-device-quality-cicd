@@ -1,10 +1,12 @@
 # Android Device Quality CI/CD
 
-[![CI/CD Pipeline](https://github.com/rehansaify/android-device-quality-cicd/actions/workflows/ci.yml/badge.svg)](https://github.com/rehansaify/android-device-quality-cicd/actions/workflows/ci.yml)
-[![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
-[![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![GHCR](https://img.shields.io/badge/GHCR-Published-black?logo=github)](https://github.com/features/packages)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![CI](https://github.com/rehansaify/android-device-quality-cicd/actions/workflows/ci.yml/badge.svg)](https://github.com/rehansaify/android-device-quality-cicd/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Ruff](https://img.shields.io/badge/Linting-Ruff-D7FF64?logo=ruff&logoColor=black)](https://docs.astral.sh/ruff/)
+[![Pytest](https://img.shields.io/badge/Testing-Pytest-0A9EDC?logo=pytest&logoColor=white)](https://pytest.org/)
+[![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![GHCR](https://img.shields.io/badge/Registry-GHCR-181717?logo=github&logoColor=white)](https://github.com/features/packages)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A Python-based Android device quality simulator with an automated CI/CD pipeline using GitHub Actions, Docker, and GitHub Container Registry.
 
