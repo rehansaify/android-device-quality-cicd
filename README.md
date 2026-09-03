@@ -1,11 +1,12 @@
 # Android Device Quality CI/CD Pipeline
 
-[![CI/CD Pipeline](https://github.com/rehan/android-device-quality-cicd/actions/workflows/ci.yml/badge.svg)](https://github.com/rehan/android-device-quality-cicd/actions/workflows/ci.yml)
-[![Python 3.12](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
-[![Code style: Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
-[![Testing: Pytest](https://img.shields.io/badge/testing-pytest-yellow.svg)](https://docs.pytest.org/)
-[![Docker Slim](https://img.shields.io/badge/docker-python%3A3.12--slim-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/_/python)
-[![GHCR Registry](https://img.shields.io/badge/registry-GHCR.io-black?logo=github)](https://github.com/features/packages)
+[![CI](https://github.com/rehansaify/android-device-quality-cicd/actions/workflows/ci.yml/badge.svg)](https://github.com/rehansaify/android-device-quality-cicd/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Ruff](https://img.shields.io/badge/Linting-Ruff-D7FF64?logo=ruff&logoColor=black)](https://docs.astral.sh/ruff/)
+[![Pytest](https://img.shields.io/badge/Testing-Pytest-0A9EDC?logo=pytest&logoColor=white)](https://pytest.org/)
+[![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![GHCR](https://img.shields.io/badge/Registry-GHCR-181717?logo=github&logoColor=white)](https://github.com/features/packages)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A lightweight, production-grade **Android Device Quality Simulator and CI/CD Pre-Flight Quality Gate** written in modern Python 3.12. 
 
