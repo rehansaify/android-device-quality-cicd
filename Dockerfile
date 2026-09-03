@@ -16,7 +16,7 @@ RUN groupadd --system --gid 10001 appgroup && \
 WORKDIR /app
 
 # Copy dependency specifications and project packaging metadata
-COPY pyproject.toml requirements.txt README.md ./
+COPY pyproject.toml requirements.txt ./
 
 # Install application in editable/wheel form
 COPY src/ ./src/
